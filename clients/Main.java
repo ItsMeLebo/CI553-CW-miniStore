@@ -20,6 +20,7 @@ import java.awt.*;
 /**
  * Starts all the clients (user interface)  as a single application.
  * Good for testing the system using a single application.
+ * Branched for better basket functionality
  * @author  Mike Smith University of Brighton
  * @version 2.0
  * @author  Shine University of Brighton
